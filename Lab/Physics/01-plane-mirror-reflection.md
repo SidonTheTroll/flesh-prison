@@ -26,6 +26,8 @@ The laws of reflection are:
 | 2. | $50\degree$ | $50\degree$ | $0\degree$ |
 | 3. | $66\degree$ | $66\degree$ | $0\degree$ |
 
+<img src="./img/01/traces.jpg" width=400>
+
 ## Result 
 Here the reflected ray meets the point of incidence for all angles of incidence. The reflected ray lie in the plane of incidence. 
 
