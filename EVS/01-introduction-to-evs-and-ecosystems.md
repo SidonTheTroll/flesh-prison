@@ -24,3 +24,40 @@ EVS has become significant for the following reasons.
 
 1. **Environmental issues of international importance:** Issues like global warming, ozone layer depletion, marine pollution are global issues that must be tackled with international efforts and cooperation. 
 2. **Increase in pollution:** as world pollution is increasing at an alarming rate, it has led to exploitation of natural resources leading to pollution of all types. 
+3. **Need for alternative solution:** overconsumption of natural resources causes environmental crisis, so we need to adopt sustainable way of living. 
+4. **Problems cropped in the wake of development:** urbanization, industrial growth, agriculture, transportation, etc has led to great number of environmental problems. 
+
+## Ecology 
+It is the subject which studies the nature of interaction between living and non-living things. 
+
+## Ecosystem 
+An ecosystem is a structural and functional unit of ecology which includes both living and non-living components. 
+
+- **Components of Ecosystem**
+    - Biotic 
+        - Produces/Autotrophs (produce their own food by photosynthesis)
+        - Consumer 
+            - Primary consumer/herbivores (cow, goat, horse)
+            - Secondary consumers/carnivores (fox, cat)
+            - Tertiary consumers (tiger, bear)
+        - Decomposers (decomposers break down organic matter and release vital nutrients back into the soil, e.g., bacteria, fungi)
+    - Abiotic 
+
+## Functions of Ecosystem 
+1. **Energy flow:** it refers to the movement of energy from primary to various levels of consumers. It takes place via food chain and food web. Energy flow is unidirectional in nature. 
+    1. **Food chain:** It is a linear sequence where one living organism and transfer of food or energy takes place. There are two types of food chain- grazing food chain, detritus food chain. 
+
+### Grazing Food Chain 
+| | Terrestrial | Aquatic | 
+|:-:|:-:|:-:|
+| Tertiary Consumers | Snake | Pelican | 
+| Secondary consumers | Lizard | Fish | 
+| Primary consumers | Caterpillar | Zooplankton | 
+| Producer | Grass | Phytoplankton | 
+
+### Detritus Food Chain 
+It is the type of food chain that starts with dead organic matter. 
+
+Dead organic matter $\rightarrow$ Decomposer (bacteria/fungi) $\rightarrow$ Detrivores (digest dead organic matter, e.g., earthworms, snails) $\rightarrow$ Predators (sparrow, crows, vultures, etc.)
+
+
