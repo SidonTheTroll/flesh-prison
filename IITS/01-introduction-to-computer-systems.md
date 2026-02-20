@@ -86,13 +86,17 @@ Software is a set of programs and instructions that tell the computer what to do
 An Operating System (OS) is system software that acts as an interface between the user and computer hardware.
 
 - **Functions of Operating System**
-    - Process management
-    - Memory management
-    - File management
-    - Device management
-    - Security and access control
-    - User interface management
+    - **Resource management:** if multiple users are accessing, there occurs a need for resource management to allocate one hardware to each user which is done by the OS. This becomes important as we need to manage resources specially in multiple devices where we need to access a particular hardware. 
+    - **Process management:** Suppose we are performing multiple programs in one time like MS Office, Media Player, etc. how efficiently you manage them all is done by process management.
+    - **Memory management:** this is the function of OS that allocates, tracks and controls main memory among processes efficiently. 
+    - **File management:** how efficiently files are allocated in the sysetm drive and RAM for efficiently storage use is done by storage management. 
+    - **File management:** to organize, store, retrieve and control access to files on storage devices. 
+    - **Device management:** to contol coordinate and allocates hardware devices to processes. 
+    - **Security and access control:** if a task gains unrestricted access to memory, it is blocked so that there is no interference between processes. 
+    - **User interface management:** provides means for users to interact with system through command-line or graphical interfaces. 
 
 <div style="page-break-after: always"></div>
 
 - **Examples of Operating Systems**: Windows, Linux, macOS, Android, iOS. 
+
+> OS provides convenience and throughput (executing multiple tasks at one time) to the user
