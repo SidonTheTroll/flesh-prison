@@ -44,10 +44,18 @@ An ecosystem is a structural and functional unit of ecology which includes both 
     - Abiotic 
 
 ## Functions of Ecosystem 
-1. **Energy flow:** it refers to the movement of energy from primary to various levels of consumers. It takes place via food chain and food web. Energy flow is unidirectional in nature. 
-    1. **Food chain:** It is a linear sequence where one living organism and transfer of food or energy takes place. There are two types of food chain- grazing food chain, detritus food chain. 
+1. Energy flow 
+2. Ecological Succession 
+3. Nutrient Cycling
 
-### Grazing Food Chain 
+### Energy Flow 
+It refers to the movement of energy from primary to various levels of consumers. It takes place via food chain and food web. Energy flow is unidirectional in nature. It is represented by the food chain or food web. 
+
+#### Food Chain 
+It is a linear sequence where one living organism and transfer of food or energy takes place. There are two types of food chain- grazing food chain, detritus food chain. 
+
+- **Grazing Food Chain**
+
 | | Terrestrial | Aquatic | 
 |:-:|:-:|:-:|
 | Tertiary Consumers | Snake | Pelican | 
@@ -55,9 +63,37 @@ An ecosystem is a structural and functional unit of ecology which includes both 
 | Primary consumers | Caterpillar | Zooplankton | 
 | Producer | Grass | Phytoplankton | 
 
-### Detritus Food Chain 
+- **Detritus Food Chain**
+
 It is the type of food chain that starts with dead organic matter. 
 
 Dead organic matter $\rightarrow$ Decomposer (bacteria/fungi) $\rightarrow$ Detrivores (digest dead organic matter, e.g., earthworms, snails) $\rightarrow$ Predators (sparrow, crows, vultures, etc.)
 
+#### Food Web 
+1. It reperesents all possible food chains in an ecosystem. 
+2. It is not linear 
+3. It represents all possible transfer of energy and nutrients. 
 
+### Ecological Succession 
+Ecological succession is the process by which species composition of an ecosystem changes over a period of time. 
+
+- Types: 
+    1. **Primary succession:** it is the process through which a barren or lifeless area gradually transforms into a stable and complex ecosystem. 
+        - $\underset{\text{Pioneer Species}}{\underbrace{\text{Bare rock} \rightarrow \text{Lichens} \rightarrow \text{Small plants and lichens} \rightarrow \text{Grasses and ferns}}} \rightarrow \underset{\text{Intermediate species}}{\text{Grasses, shrubs and shade intolerant trees}} \rightarrow \underset{\text{Climax community}}{\text{Forest}}$
+        - Each stage in ecosystem succession is called 'series' or 'serial stage'.
+        - Climax community is the last species that is the final product of the ecological succession. 
+        - Succession can be natural or man made. 
+    2. **Secondary succession:** secondary succession occurs in areas where previously existing community or primary ecosystem gets destroyed by fire, flood or deforestation. 
+
+### Nutrient Cycle (Biogeochemical cycling)
+1. **Based on reservoir (storage):** 
+    1. Gaseous cycle: carbon cycle, nitrogen cycle, water cycle, oxygen cycle. 
+    2. Sedimentary cycle: phosphorous and sulfur cycle 
+
+#### Hydrological (Water) Cycle 
+<img src="./img/01/water-cycle.png">
+
+#### Carbon Cycle 
+It is a biogeochemical process where carbon compounds are continuously interchanged between the atmosphere and organisms. 
+
+<img src="./img/01/carbon-cycle.jpeg">
