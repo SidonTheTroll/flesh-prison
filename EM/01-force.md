@@ -49,7 +49,7 @@ $$
 $$
 
 $F_1\ \&\ F_2 = \text{forces whose resultant is required to be found out}$  
-$\theta = \text{angle between F_1 & F_2}$  
+$\theta = \text{angle between}\ F1 \&\ F2$  
 $\alpha = \text{angle which the resultant force makes with one of the force (here}\ F_1)$
 
 # Note 
