@@ -44,3 +44,27 @@ Human exposure to $NO_2$ reduces $O_2$ carrying capacity of blood because it for
         1. At lower concentration they aren't regarded as harmful pollutants as compared to oxides of carbon, nitrogen, sulfur, etc. However, at higher concentration they may cause cancer. 
         2. Aromatic hydrocarbons like benzene and toluene can cause headache and weakness in our body. 
         3. Cyclic hydrocarbons affect the nervous system. 
+
+# Global Warming or Greenhouse Effect 
+A greenhouse is a house made of glass that can be used to grow plants. When the sun rays incident inside the greenhouse the heat is trapped inside and cannot escape out. In polar regions the temperature inside the greenhouse is essential for the growth of plants.   
+Similarly, earth is covered by atmosphere where certain gasses like $CO_2$, $CFC$, $CH_4$, etc. are present which are known as greenhouse gasses. When light enters in the atmosphere these greenhouse gasses absorb the heat and prevent theme from reflecting back into the space. This maintains the temperature of the earth and prevent it from freezing. This phenomena is known as Greenhouse effect.  
+But nowadays, due to human activities, the amount of greenhouse gasses is increased due to which they absorb very high amount of heat. Therefore, the temperature of earth is increased which causes global warming.  
+Example of greenhouse gasses: $CH_4$, $CO_2$, $CFC$, $H_2O$ vapor, $N_2O$ (laughing gas) and $O_3$
+
+- Oxides of nitrogen like $NO$, $NO_2$ aren't greenhouse gas. 
+
+# Ozone Layer Depletion
+Ozone means three atoms of oxygen $(O_3)$. The ozone layer is a region in the earth's stratosphere that contains high concentration of ozone and protects the earth from the harmful UV radiation of the sun. It absorbs nearly 97%-99% of harmful UV radiations.  
+The ozone in stratosphere absorbs harmful UV radiation and is continuously being converted into $O_2$ and $O$ (atomic oxygen).
+
+$$
+O_3 + h\nu \rightarrow O_2 + O 
+$$
+
+Also, the oxygen molecule present in the atmosphere react with atomic oxygen and produce $O_3$ and creates an equilibrium of ozone. This equilibrium is disturbed by $CFC$, $N_2O$, etc. which destroys ozone molecules and hence concentration of ozone layer decreases which is referred as ozone hole. This phenomenon is called ozone layer depletion. 
+
+## Effect of Ozone Layer Depletion 
+1. Due to ozone layer depletion, the harmful UV rays reaches earth and creates several diseases like cancer, DNA mutation, etc. 
+2. Yield of vital crops like rice, wheat, cotton will decrease. 
+3. It will result in decrease in the population of marine animals like fish, algae, etc. 
+
