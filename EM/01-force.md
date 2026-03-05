@@ -48,7 +48,7 @@ $$
 \tan \alpha = \frac{F_2 \sin \theta}{F_1 + F_2 \cos \theta} 
 $$
 
-$F_1\ &\ F_2 = \text{forces whose resultant is required to be found out}$  
+$F_1\ \&\ F_2 = \text{forces whose resultant is required to be found out}$  
 $\theta = \text{angle between F_1 & F_2}$  
 $\alpha = \text{angle which the resultant force makes with one of the force (here}\ F_1)$
 
