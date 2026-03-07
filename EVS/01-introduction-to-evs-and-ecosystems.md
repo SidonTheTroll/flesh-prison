@@ -97,3 +97,18 @@ Ecological succession is the process by which species composition of an ecosyste
 It is a biogeochemical process where carbon compounds are continuously interchanged between the atmosphere and organisms. 
 
 <img src="./img/01/carbon-cycle.jpeg">
+
+#### Nitrogen Cycle
+Plants cannot take nitrogen from air directly except few. So, nitrogen fixation is the process by which atmospheric nitrogen is converted into usable form for plants. 
+
+<img src="./img/01/nitrogen-cycle.jpg">
+
+Leguminous plants have rhizobium bacteria which lives in the root nodules. They use atmospheric nitrogen directly into plant usable form. 
+
+<img src="./img/01/nitrogen-fixation.jpg">
+
+#### Phosphorous Cycle (Sedimentary Cycle)
+<img src="./img/01/phosphorous-cycle.jpg">
+
+#### Sulfur Cycle 
+<img src="./img/01/sulfur-cycle.jpg">
