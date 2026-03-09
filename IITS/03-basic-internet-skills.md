@@ -50,3 +50,10 @@ An e-mail system consists of the following
 - Subject 
 - Body 
 - Attachments 
+
+# Awareness about Digital India Portal 
+Digital India Initiative aims to Improve online infrastructure and government services digitally. E.g: 
+
+1. **National Portal of India:** it provides information about government services, schemes and department. 
+2. **Digilocker:** stores digital documents 
+3. **UMANG:** multiple government services 
