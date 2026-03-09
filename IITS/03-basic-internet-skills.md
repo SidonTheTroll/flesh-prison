@@ -12,3 +12,41 @@ To use search engine efficiently-
 2. Use minus sign to exclude unwanted terms. 
 3. Use filters such as date, images or pdf to refine results. 
 
+# IP Address
+Internet Protocol Address, is ann unique numerical identifier assigned to every device connected to a network. It alllows devices to locate and communicate with each other. 
+
+- There are two types:
+    1. **IPv4:** 32 bit address written as 4 numbers separated by dots. 
+    2. **IPv6:** 128 bit address, supports much larges no. of devices. 
+
+<div style="page-break-after: always"></div>
+
+- **HTTP:** Hyper Text Transfer Protocol, used for transffering webpages. 
+- **HTTPS:** Hyper Text Transfer Protocol Secured 
+
+It defines how messages are formatted and transmitted across the web. 
+
+- HTTPS is the secure version of HTTP, by using encryption to protect data between computer and web server. Important to hide personal details on websites. 
+
+# Cookies 
+Cookies are small text files stored on a user's computer by a website and they are used to remember login sessions and store user preferences. They also track browsing behavior for analytics or advertising. 
+
+# Downloads 
+It is the process of transferring files from the internet to a local computer or mobile device. Files such as music, videos, documents, etc. Whenever we download, it is usually stored in the Downloads folder. And always download files from trusted sources. 
+
+# Uploads 
+Uploading is the process of transferring files from a local machine to the internet.
+
+# How to Delete Browser Data 
+1. Open Browser Settings 
+2. Go to Privacy and Security 
+3. Clear browsing history 
+
+# E-mail 
+An e-mail system consists of the following 
+ 
+- Sender 
+- Recipient 
+- Subject 
+- Body 
+- Attachments 

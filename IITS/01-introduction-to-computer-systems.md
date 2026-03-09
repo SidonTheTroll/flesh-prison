@@ -100,3 +100,30 @@ An Operating System (OS) is system software that acts as an interface between th
 - **Examples of Operating Systems**: Windows, Linux, macOS, Android, iOS. 
 
 > OS provides convenience and throughput (executing multiple tasks at one time) to the user
+
+## Evolution of Operating System 
+1. **1st generation computer (1948-1955):** there was no OS and programs were written in machine language. 
+2. **2nd generation computer (1955-1965):** batch processing was introduced and programs were executed in batches. 
+3. **3rd generation computer (1965-1980):** multiprogramming and time sharing was introduced and UNIX was developed. 
+4. **4th generation computer (1980-present):** windows, linux GUI-basic OS introduced. 
+
+## Types of OS 
+1. **Batch OS:** job executed in batches. No user interaction 
+2. **Time-sharing OS:** multiple users share CPU time 
+3. **Real time OS:** fast response time. E.g.: UNIX. Used in control systems. E.g.: air-control system, robotics, etc. 
+4. **Distributed OS:** multiple computers work as one system. 
+5. **Network OS:** manages network resources. E.g.: windows servers. 
+6. **Multiprogrammed OS:** allows multiple tasks to reside in memory and share CPU concurrently. 
+7. **Multitasking OS:** allows multiple tasks to execute simultaneously by switching CPU between them. 
+
+## OS Processing Types
+1. **Batch Processing:** jobs are grouped and executed together. There is no interaction during execution. 
+2. **Multi-programming:** several programs loaded in memory and CPU switches between programs. 
+3. **Multitasking:** one user runs multiple programs at once. 
+4. **Time Sharing:** CPU time divided among users. 
+5. **Real-time processing:** immediate processing required and no delay allowed. E.g.: missile systems, industrial automation. 
+
+## OS Structures 
+1. **Monolithic:** entire OS runs ias a single program. E.g.: MS DOS, Android 
+2. **Layered:** OS is divided into layers. E.g.: Windows NT, Linux, Windows 10, etc. 
+3. **Microkernel:** services run separately. E.g.: MINIX 
