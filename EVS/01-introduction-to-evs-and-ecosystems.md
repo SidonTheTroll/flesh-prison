@@ -112,3 +112,35 @@ Leguminous plants have rhizobium bacteria which lives in the root nodules. They 
 
 #### Sulfur Cycle 
 <img src="./img/01/sulfur-cycle.jpg">
+
+# Types of Ecosystem 
+## Freshwater Ecosystem 
+It includes ponds, lakes, streams, rivers and wetlands which contain low salt content, i.e., below 0.5 parts per thousand and support many aquatic plants and animals.  
+There are two types of freshwater: 
+
+1. **Lentic:** lentic ecosystems are still or stagnant water bodies like lakes, ponds, and wetlands. They have higher levels of nutrients and organic matter which can lead to high levels of diversity and productivity. 
+
+2. **Lotic:** lotic ecosystem are flowing water bodies like rivers, streams, etc. They have lower level of nutrients and organic matter but higher level of dissolved oxygen due to the continuous water flow. 
+
+## Terrestrial Ecosystem 
+### Forest 
+1. A forest is a large area covered predominantly with trees. It serves as habitats for wide range of fauna. 
+2. Based on tree density, forests are broadly divided into dense forest and open forest. 
+3. Forest covers nearly 30% of the earth's land area. 
+
+#### Types of Forest Ecosystem 
+1. Coniferous Forest 
+2. Temperate Forest 
+3. Tropical Rainforest
+
+### Grassland Ecosystem 
+It is an ecological system dominated by grasses and herbaceous plants. Globally, grasslands occupy about 20% of the earth's land surface. E.g.: Prairies (North America), Pampas (South America), Savannas (Africa), Steppes (Eurasia), Downs (Australia). 
+
+### Desert Ecosystem 
+Deserts are arid region with specially low or high temperatures and limited vegetation. There are two types of desert ecosystem, i.e., hot desert and cold desert. 
+
+- **Hot Desert:** They are region with high temperature, low precipitation and sandy soil. E.g.: Sahara desert 
+
+- **Cold Desert:** These are high altitude regions with low precipitation (often snow), extreme cold and sparse vegetation. E.g.: Ladakh, Antarctica. 
+
+
