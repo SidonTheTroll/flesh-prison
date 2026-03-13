@@ -30,7 +30,7 @@ A curvilinear quadrilateral will be formed by the lines of force. Within this bo
 ## Result 
 The magnetic lines of force on one side of a bar magnet with its north pole pointing towards the geographic north are shown on the paper. A neutral point is located on the perpendicular bisector to the length of the magnet on one side. 
 
-<img src="./img/02/traces.jpg">
+<img src="./img/11/traces.jpg">
 
 ## Precautions 
 1. There should be no magnetic materials in the vicinity of the magnet. Drawing pins should be made of brass. 
