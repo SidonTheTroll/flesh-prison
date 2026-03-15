@@ -13,9 +13,9 @@
 Hence, $I = V/R$ or $R= V/I$
 
 Where,  
-$I$ is the current in amperes  
-$V$ is the pressure in volts  
-$R$ is the resistance in ohm 
+$I$ is the current in Amperes  
+$V$ is the pressure in Volts  
+$R$ is the resistance in Ohm 
 
 ## Circuit Diagram 
 
