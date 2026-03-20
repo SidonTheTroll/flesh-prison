@@ -7,6 +7,7 @@ Kirchhoff's Current Law states that the algebraic sum of the current meeting at 
 Kirchhoff's Current Law is nothing more than a restatement of principle of conservation of charge since the accumulation of electric charge at a junction is not possible, an amount of charge entering a junction at a constant must be the amount equal to the charge leaving the junction. 
 
 ## Circuit Diagram 
+<img src="./img/03-circuit-diagram.jpg">
 
 ## Procedure
 1. Correct all the apparatus as shown in the circuit diagram. 
