@@ -18,6 +18,7 @@ $V$ is the pressure in Volts
 $R$ is the resistance in Ohm 
 
 ## Circuit Diagram 
+<img src="./img/02-circuit-diagram.jpg">
 
 ## Procedure 
 1. Connect the circuit as shown in the figure. 
@@ -41,3 +42,5 @@ $R$ is the resistance in Ohm
 | 3. | Rheostat | 101 $\Omega$, 5 A | British Electrical Instrument | 2 | 
 
 **Remark**: Due to instrumental error we are not able to get accurate result. 
+
+<img src="./img/02-graph.jpg">
