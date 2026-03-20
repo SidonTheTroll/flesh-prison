@@ -5,7 +5,7 @@
 ## Details of the Machine Studied 
 1. **Rating:** kW = 211 kW, V = 220 V, N = 100 rmp, I = 96 A 
 2. **Armature:** Diameter = 124 mm, Length = 73 mm, No. of slots = 19 
-3. **Parts of Machine:** Yoke, pole, armature ,commutator, brushes, shaft and bearings identification and their functions. 
+3. **Parts of Machine:** Yoke, pole, armature, commutator, brushes, shaft and bearings identification and their functions. 
 4. **Field:** 
     1. No of main poles: 4 
     2. Pole of core: 
@@ -28,11 +28,14 @@
 | 2. | Outside caliper | - |  | Indirect measuring tool | 1 | 
 
 ## Procedure 
-1. At first we observe the outside of a DC machine and then we go through its various parts. 
+1. At first we observe the outside of a DC machine, and then we go through its various parts. 
 2. The machine consists of various essential parts, one of which is magnetic frame or yoke which surrounds the pole, brushes, armature winding, armature core, commutator, pole core and bearing, etc. 
 3. Then we take down the sketch of the various parts of the machine and label it. 
 4. Then we note down the details of each parts such as diameter of armature, commutator, commutator segment, etc. 
 5. After noting down all details and specifications (such as rating of the machine) our study is over and the experiment is complete. 
 
 ## Diagrams 
-
+<img src="./img/01-dc-machine.jpg">
+<img src="./img/01-pole-core-and-armature-core.jpg">
+<img src="./img/01-yoke.jpg">
+<img src="./img/01-commutator.jpg">
