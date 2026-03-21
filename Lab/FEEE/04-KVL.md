@@ -7,6 +7,7 @@ Kirchhoff's Voltage Law (KVL) states that for a closed loop series path the alge
 KVL deals with the conservation of energy around a closed circuit path. 
 
 ## Circuit Diagram 
+<img src="./img/04-circuit-diagram.jpg">
 
 ## Procedure 
 1. Correct all the apparatus as shown in the diagram. 
@@ -15,12 +16,14 @@ KVL deals with the conservation of energy around a closed circuit path.
 4. Similarly, we should take three more readings. 
 
 ## Observation Table 
+| S. No. | Voltage (V) (volts) | Voltage $(V_1)$ (volts) | Voltage $(V_2)$ (volts) | $V_1 + V_2$ (volts) | 
+|:-:|:-:|:-:|:-:|:-:|
+| 1. | 5 | 4 | 1 | 5 | 
 
 ## List of Equipments 
 | S. No. | Item | Specification | Maker's Name | Type | Quantity | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 1. | Potential Divider | | British Electrical Private Limited | Variable | 1 | 
-| 2. | Voltmeter | | MECO Instrument Pvt. Ltd. | | 3 | 
-| 3. | Rheostat | $101\Omega - 25 A$ | British Electrical Private Limited | | 2 | 
-| 4. | Wire | - | - | - | Many | 
+| 2. | Voltmeter | 0-300 V, 0-150 V, 0-150 V| Very Volt | MI (Moving Iron) | 3 | 
+| 3. | Wire | - | - | - | Many | 
 
