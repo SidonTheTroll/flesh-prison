@@ -68,3 +68,71 @@ Also, the oxygen molecule present in the atmosphere react with atomic oxygen and
 2. Yield of vital crops like rice, wheat, cotton will decrease. 
 3. It will result in decrease in the population of marine animals like fish, algae, etc. 
 
+# Acid Rain 
+When the pH of rain water is less than 5.6 it is called acid rain.  
+Fossil fuel contains compounds such as sulfur, carbon, nitrogen, etc. On combustion, large amount of $SO_2$, $CO_2$, oxides of nitrogen like $NO$, $NO_2$ are formed. These oxides when react with rain water results in acid rain. 
+
+1. The $CO_2$ gas dissolved in rain water forms weak carbonic acid $(H_2CO_3)$
+    - $CO_2 + H_2O \rightarrow H_2CO_3$
+2. $SO_2$ and $NO_2$ undergo oxidation, and then they react with rain water resulting in the formation of $H_2SO_4$ and $HNO_3$ respectively. 
+    - $2SO_2 + O_2 + 2H_2O \rightarrow 2H_2SO_4$
+    - $4NO_2 + O_2 + 2H_2O \rightarrow 4HNO_3$
+
+## Effect of Acid Rain 
+- **Aquatic life:** aquatic lives are badly affected by acid rain. It may cause disappearance of aquatic species and killing of bacteria, algae, etc. 
+- **Ecosystem:** acid rain breaks the food chain and due to this, biodiversity is reduced. 
+- **Human health:** acid rain causes skin irritation, hair damage, etc. 
+- **Vegetation:** acid rain can decolorize the leaves of plants and reduce the chlorophyll content in vegetable. 
+
+# Radioactive Pollution 
+Radioactivity is the phenomenon of spontaneous emission of $\alpha$-rays, $\beta$-rays and $\gamma$-rays due to disintegration of atomic nuclei of some elements. E.g.: $\alpha$-decay of uranium. 
+
+$$
+^{238}_{92}U \rightarrow ^{234}_{90}Th + ^4_2He + E 
+$$
+
+The emitted radiation can harm living organism and damage the environment, i.e., radioactive pollution is the contamination of the environment by harmful radioactive substances. 
+
+## Sources of Radioactive Pollution 
+1. **Natural sources:** radioactive elements like Uranium-235, Uranium-238, Radium-224, Thorium-232. 
+2. **Man-made sources:** mining and refining of radioactive materials, leakage from nuclear reactors, use of nuclear weapons, waste of nuclear power plant, etc. 
+
+## Example of Radioactive Pollution 
+1. Chernobyl Disaster 
+2. Fukushima-Daiichi Nuclear Disaster 
+
+## Effect of Radioactive Pollution 
+1. Radiation can damage DNA and increase the risk of cancer. 
+2. Radiation may change genes causing birth defect in future generation. 
+3. It can damage our immune system. 
+4. Long term exposure can damage organs like lungs, bone marrow, etc. 
+5. Radioactive particles can make land unsafe for agriculture. 
+6. Rivers and groundwater can become contaminated which can affect the aquatic life. 
+
+# Noise Pollution 
+- **Sound:** what we hear, we communicate and pleasant to hear is called sound. 
+- **Noise:** unwanted sound which isn't pleasant to hear is called noise. 
+
+| Sound | Noise | 
+|:-:|:-:|
+| It is pleas;nt to hear | Unpleasant to hear | 
+| Sound wave is periodic motion | Noise wave has non-periodic motion | 
+| Pitch of sound waves is constant | Pitch of noise wave isn't constant | 
+| Its unit is Hertz (Hz) | Its unit is Decibel ($d\beta$) |
+
+The disturbance produced in our environment by the undesirable loud sound is called noise pollution. 
+
+<img src="./img/02/sound-zones.png">
+
+## Sources of Noise Pollution 
+1. **Transport:** horn of vehicles, vehicles with damaged silencers, noise produced by aeroplanes, etc. 
+2. **Industry:** grinding of wheels, generators, rotating machines, etc. 
+3. **Others sources:** radio, television, washing machine, firecrackers, loudspeakers, etc. 
+
+## Effect of Noise Pollution 
+1. Long term exposure of loud sound (80-90 db) for more than 8 hours a day may cause loss of hearing. 
+2. Noise interferes communication with other people.
+3. Noise can cause headache, irritation, etc. 
+4. Noise increases the blood pressure, heart issues, etc. 
+5. Noise can discourage the annual visit of migratory birds to lakes. 
+
