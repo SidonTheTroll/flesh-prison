@@ -143,4 +143,14 @@ Deserts are arid region with specially low or high temperatures and limited vege
 
 - **Cold Desert:** These are high altitude regions with low precipitation (often snow), extreme cold and sparse vegetation. E.g.: Ladakh, Antarctica. 
 
+### Mountain Ecosystem 
+Mountain ecosystem refers to the complex network of living organisms and their physical environment found in mountainous regions.  
+They are characterized by steep terrain, varying altitudes, low temperature, high winds and reduced oxygen levels as altitude increases. 
 
+- **Functions of Mountain Ecosystem**
+    - Biodiversity hotspot 
+    - Climate regulation 
+    - Carbon sequestration
+    - Prevent soil erosion 
+    - Water storage via glaciers 
+    - Provide essential services including timber, food, minerals, medicinal plants, etc. 
