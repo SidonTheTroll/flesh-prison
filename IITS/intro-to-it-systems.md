@@ -75,6 +75,8 @@
 - Uses router  
 - Speed: 128 Kbps–8 Mbps  
 
+<br>
+
 - Types: ADSL, SDSL, HDSL, RDSL, VDSL, IDSL  
 - Differ in speed and service  
 
