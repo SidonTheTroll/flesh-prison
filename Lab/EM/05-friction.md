@@ -3,7 +3,7 @@
 - **Object of the Experiment:** To determine the coefficient of friction and the angle of repose. 
 
 ## Theory 
-The coefficient of friciton, $\mu$, is the ratio of the limiting friction, F, and the normal reaction, R, between the two bodies. 
+The coefficient of friciton, $\mu$, is the ratio of the limiting friction, F, and the normal reaction, R, between the two bodies. <img src="./img/05-diagram1.jpg">
 
 $\mu = F / R$
 
@@ -15,7 +15,7 @@ The angle of repose, $\theta$, is the limiting angle made by a plane with the ho
 When a body placed on the plane just begins to slide down the plane, 
 
 $\text{Resolving along the plane, } F = W\sin\theta$ -------- (1)  
-$\text{Resolving normal to the plane, } R = W\cos\theta$ ------- (2)
+$\text{Resolving normal to the plane, } R = W\cos\theta$ ------- (2) <img src="./img/05-diagram2.jpg">
 
 Dividing (1) by (2), 
 
@@ -55,3 +55,5 @@ Friction apparatus, slider, pan, cord, weight box, spirit level
 1. The surface of the plane table and the bottom of the slider is not clean as there are dust particles. 
 2. The graduated scale cannot be properly measured due to parallax error. 
 3. The pulley is not in good condition. 
+
+<img src="./img/05-apparatus.jpg">
