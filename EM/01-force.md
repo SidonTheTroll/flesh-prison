@@ -75,7 +75,7 @@ $\alpha = \text{angle which the resultant force makes with one of the force (her
 The process of splitting up the given force into a number of components, without changing its effects on the body is called resolution of a force. 
 
 # Principle of Resolution 
-It states that the algebric sum of the resolved parts of a number of forces in a given direction is equal to the resolved parts of their resultant in the same direction. 
+It states that the algebraic sum of the resolved parts of a number of forces in a given direction is equal to the resolved parts of their resultant in the same direction. 
 
 > [!NOTE]
 > In general, the forces are resolved in vertical and horizontal direction. 
@@ -114,4 +114,62 @@ The SI unit of moment is Nm (newton meter)
 Graphically a moment is represented by showing a force vector acting at a perpendicular distance from a reference point or a pivot. The force is drawn as an arrow, the perpendicular distance from the pivot to the line of action of the force is indicated, and the rotational effect is shown as clockwise or anti-clockwise. 
 
 ## Varignon's Theorem (Principle of Moments)
-Varignon's theorem states that the moment of the resultant of a system of forces about any point is equal to the algebric sum of the moments of the individual forces about the same point. This theorem simplifies calculations in engineering mechanics and widely used in build and structural analysis. 
+Varignon's theorem states that the moment of the resultant of a system of forces about any point is equal to the algebraic sum of the moments of the individual forces about the same point. This theorem simplifies calculations in engineering mechanics and widely used in build and structural analysis. 
+
+# Triangle of Forces 
+It states that if two forces acting simultaneously on a particle be represented in magnitude and direction by the two sides of a triangle, their resultant may be represented in magnitude and direction by the third side of a triangle taken in opposite order. 
+
+# Polygon Law of Forces 
+It states that if a number of forces acting simultaneously on a particle be represented in magnitude and direction by the sides of a polygon taken in order then the resultatnt of these forces may be represented in magnitude and direction by the closing side of the polygon taken in opposite order. 
+
+# Simple Lever 
+- **Lever:** a lever is a rigid bar (straight, curved or bent) and is hinged at one point. It is free to rotate about the hinge and called fulcrum. The common examples of the use of lever are crowbar, pair of scissors, fire tongs. It may be noted that there is a point for effort or effort arm and another point for overcoming resistance or lifting load called load arm. 
+
+## Types of Levers 
+1. Simple Lever 
+2. Compound Lever 
+
+### Simple Lever
+Now, moments of the effort and load about the fulcrum (F) and equating the same, <img src="./img/01/simple-lever.jpg" align=right width=400>
+
+$$
+Pa = Wb \\ 
+\implies \frac{W}{P} = \frac{a}{b}
+$$
+
+Where,  
+$\frac{W}{P} \rightarrow$ mechanical advantage  
+$\frac{a}{b} \rightarrow$ leverage 
+
+To increase the mechanical advantage, we have to increase 'a' (length between fulcrum and effort) or reduce 'b' (length between fulcrum and weight) 
+
+$$
+MA\uparrow = \frac{a\uparrow}{b\downarrow}
+$$
+
+# Couples 
+A pair of equal and unlike parallel forces (that is forces equal in magnitude with the line of action parallel to each other and acting on opposite direction) 
+
+## Arm of the Couple 
+The perpendicular distance (A) between the line of action of two equal and opposite parallel forces is known as arm of the couple. 
+
+<img src="./img/01/arm-of-couple.jpg" widht=350>
+
+## Moment of a Couple 
+The moment of a couple is the product of the forces (that is one of the force of the two equal and opposite parallel forces) and the arm of the couple. 
+
+Mathematically, moment of couple = $p \times a$  
+$p$ = magnitude of forces  
+$a$ = arm of the couple 
+
+## Classification of Couple 
+<img src="./img/01/couple.jpg">
+
+## Characteristics of a Couple 
+A couple (whether clockwise or anticlockwise) has the following characteristics: 
+
+1. The algebraic sum of the forces, constituting the couple is zero.
+    - $\Sigma F = 0$
+2. The algebraic sum of moments of forces, constituting the couple about any points is the same, as is equal to the moment of the couple itself. 
+3. A couple cannot be balanced by a single force. But it can be balanced only by a couple of the opposite sense. 
+4. Any number of coplanar couples can be reduced to a single couple, whose magnitude will be equal to the algebraic sum of the moments of all the couples. 
