@@ -1,22 +1,22 @@
 # Apache Open Office 
 ## Introduction 
-Apache open office is a free and open-source office software package. It provides different applications such as writer, calc, impress, draw and base. Among them, writer is the text document application. It is mainly used for word processing. Word processing means creating, editing, formatting and printing text document in a neat and organized way. OpenOffice writer is widely used in schools, colleges, officials and homes for preparing different types of documents. It is easy to install and simple to used for beginners. 
+Apache OpenOffice is a free and open-source office software package. It provides different applications such as writer, calc, impress, draw and base. Among them, writer is the text document application. It is mainly used for word processing. Word processing means creating, editing, formatting and printing text document in a neat and organized way. OpenOffice Writer is widely used in schools, colleges, offices and homes for preparing different types of documents. It is easy to install and simple to use for beginners. 
 
-## Meaning of Open-Office Writer 
-Apache OpenOffice Writer is a popular word processing software used for creating and managing text documents. It is a part of the Apache Open Office suite. 
+## Meaning of OpenOffice Writer 
+Apache OpenOffice Writer is a popular word processing software used for creating and managing text documents. It is a part of the Apache OpenOffice suite. 
 
 - It helps in preparing letters, applications, resumes, assignments, reports, projects and books. 
 - It provides formatting tools such as font style, size, color, bold, italic, and alignment. 
 - It has a spell check feature to correct spelling mistakes. 
 - Documents can be saved in different format such as .odt, .doc and .pdf. 
 
-## Features of Open-Office Writer 
-1. **Creating and saving document:** Users can create new documents and save them for future use. The default file format is.odt. It also supports other format like .doc and .pdf. 
+## Features of OpenOffice Writer 
+1. **Creating and saving document:** users can create new documents and save them for future use. The default file format is.odt. It also supports other format like .doc and .pdf. 
 2. **Editing tools:** writer provides tools like cut, copy, paste, undo and redo. These help users correct mistakes and edit text easily. 
 3. **Text formatting:** users can change font style, size and color. They can also use bold, italic, underline and alignment options. 
 4. **Paragraph formatting:** it includes line spacing, indentation, bullets and numbering. These features help organize the content properly. 
-5. **Inserting objects:** writer allows inserting pictures, tables, charts, shapes, headers, footers and page numbers. This make documents more attractive. 
-6. **Spell check and Grammars:** It has a built-in spell check feature. It shows spelling mistakes and suggests corrections for better writing. This feature helps in preparing neat, clear and error-free documents. 
+5. **Inserting objects:** writer allows inserting pictures, tables, charts, shapes, headers, footers and page numbers. This makes documents more attractive. 
+6. **Spell check and Grammars:** it has a built-in spell check feature. It shows spelling mistakes and suggests corrections for better writing. This feature helps in preparing neat, clear and error-free documents. 
 
 ## Parts of Writer Window 
 When we open writer, we use different parts on the screen: 
@@ -28,7 +28,7 @@ When we open writer, we use different parts on the screen:
 5. **Status bar:** shows page number and word count. 
 6. **Work area:** the main area where we type the document 
 
-Each part has it own importance and helps in smooth working. 
+Each part has its own importance and helps in smooth working. 
 
 ## Advantages of OpenOffice Writer 
 1. It is free and open source software.
