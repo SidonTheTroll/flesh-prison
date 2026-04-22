@@ -7,9 +7,9 @@ It consists of a rope which wraps over the rim of the brake wheel. One end of ro
 
 ## Theory 
 - Effective load over the rim of the wheel = $(W \sim S)$ kg 
-- Effective circumference of the brake wheel, $\pi D$ = $\_\_\_\_$ m 
+- Effective circumference of the brake wheel, $\pi D$ = $\text{_____}$ m 
 - Diameter of the brake wheel, D = $\frac{\text{Circumference}}{\pi}\ m$
-- Diameter of the rope, d = $\_\_\_\_$ m 
+- Diameter of the rope, d = $\text{_____}$ m 
 - Effective radius of the wheel, R = $\frac{D+d}{2}$ m 
 - Work done per revolution = $(W \sim S) \times 2\pi R$ kg-m 
 - Work done per minute = $(W \sim S) \times 2\pi RN$ kg-m 
