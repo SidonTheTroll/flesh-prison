@@ -5,7 +5,7 @@ To draw the I-D curve and to determine the refractive index of the material of a
 Drawing board, white paper, prism, pins, pencil, scale, protractor and drawing pins. 
 
 ## Theory 
-The angle D included between the direction of the incident ray AB and the direction of the emergent ray CE (produced backwards) is the angle of deviation corresponding to the angle of incidence ABN. The deviation varies with the angle of incidence. It becomes minimum at a particular angle of incidence, depending on the angle of the prism and the material of the prism. The refractive index of the material of the prism for a particular color of light is given by,
+The angle D included between the direction of the incident ray AB and the direction of the emergent ray CE (produced backwards) is the angle of deviation corresponding to the angle of incidence ABN. The deviation varies with the angle of incidence. It becomes minimum at a particular angle of incidence, depending on the angle of the prism and the material of the prism. The refractive index of the material of the prism for a particular color of light is given by, <img src="./img/09/diagram.jpg" width=400 align=right>
 
 $$
 \mu = \frac{\sin i}{\sin r} = \frac{\sin \alpha+D_m/2}{\sin \alpha/2}\ \text{, where } \alpha = \text{ prism angle}
@@ -31,6 +31,9 @@ $$
 | 7. | 60$\degree$ | 43$\degree$ | 60$\degree$ | 
 
 ## Calculation 
+
+<img src="./img/09/graph.jpg" align=right width=400>
+
 $$
 \mu = \frac{\sin i}{\sin r} = \frac{\sin (\frac{\alpha + D_m}{2})}{\sin \frac{\alpha}{2}} = \frac{\sin (\frac{60+37}{2})}{\sin \frac{60}{2}} = 1.49
 $$
@@ -44,3 +47,6 @@ The refractive index of the prism is **1.49**.
 3. The prism should be properly aligned with its base on the paper and not disturbed during the experiment. 
 4. Eyes should be at the same level as the pins when sighting. 
 
+<img src="./img/09/sheet-1.jpg">
+<img src="./img/09/sheet-2.jpg">
+<img src="./img/09/sheet-3.jpg">
