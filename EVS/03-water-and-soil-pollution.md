@@ -16,3 +16,38 @@ It is the loss of quality of water due to presence of unwanted substances.
 3. **Microbiological pollution:** bacteria, viruses and protozoa contribute to microbiological contamination. These microorganisms are responsible for water pollution can be found in human and animal waste, and cause life-threatening diseases if not properly decontaminated. 
 4. **Thermal pollution:** thermal pollution refers to degradation of water quality due to sudden change in temperature. It is caused in power plants, industrial process, deforestation. Thermal pollution effects- decreased dissolved oxygen, harms aquatic life, disrupts ecosystem, algal bloom. 
 5. **Radioactive pollution:** elements that emit harmful radiation such as radium, tritium and uranium caused by radioactive water discharge from nuclear plants.
+
+## Effect of Water Pollution on Human Health 
+1. **Genotoxicity:** genotoxins are pollutants that damages cellular DNA and poses risk to human health and aquatic life. It is caused by disinfection byproducts. 
+2. **Carcinogenic:** several pollutants are carcinogenic which induce cancer in man and animals. E.g.: heavy metals.
+3. **Neurotoxicity:** in causes neurological effects on human due to the presence of heavy metals, pesticides, etc. 
+
+## Effects of Metallic Pollutants 
+1. **Chromium:** skin disease, carcinogenic
+2. **Arsenic:** skin, lung infection 
+3. **Lead:** anemia and brain damage 
+4. **Mercury:** minamata disease; nervous damage, blindness 
+5. **Cadmium:** itai-itai, kidney failure, lung damage 
+6. **Nickel:** skin and lung damage 
+
+## Effects of Water Pollution on Environment 
+1. **Eutrophication:** it is the presence of excessive nutrients in water bodies fueling dense algal growth, harmful algal blooms and oxygen depletion, creating dead zone. It degrades ecosystem and unable to support aquatic life. 
+2. **Contamination of Food Chain:** water pollution disrupts food chain by introducing toxic substances like mercury and pesticides that kills organism, reduce biodiversity and cause bio-accumulation. 
+3. **Destroys biodiversity:** common water pollutants that affects biodiversity are agricultural runoff, industrial discharge, plastic pollution, sewage and waste water. 
+
+## Characteristics of Water Pollution 
+1. Physical parameters for accessment of water quality:
+    1. Color 
+    2. Taste 
+    3. Odor 
+    4. Temperature 
+    5. Solids 
+    6. Turbidity (clarity)
+2. Chemical parameters for accessment of water quality: 
+    1. pH 
+    2. Acidity 
+    3. Presence of chloride, floride and nitrogen 
+    4. Toxic inorganic substances 
+    5. Hardness of water 
+    6. Biological Oxygen Demand (BOD) 
+
