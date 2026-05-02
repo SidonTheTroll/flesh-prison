@@ -50,4 +50,33 @@ It is the loss of quality of water due to presence of unwanted substances.
     4. Toxic inorganic substances 
     5. Hardness of water 
     6. Biological Oxygen Demand (BOD) 
+3. Biological parameters for accessment of water quality
+    1. Bacteria (typhoid, cholera)
+    2. Algae (vomiting, diahorrea, muscle weakness, skin rashes, etc.)
+    3. Viruses (hepatitis)
+    4. Protozoa (malaria)
+    5. Indicator organisms (coliforms, e.g., *Eschericha coli*) 
+        - Pathogenica coliforms exist in intestinal system of warm blooded animals and are excreted with their excreta. They survive in water more longer than other pathogens and there are roughly 3 million of E. coli present in 100 ml of untreated sewage. 
 
+## Stages of Waste Water Treatment 
+Waste water treatment involves 3 stages: 
+
+1. Primary treatment (physical)
+2. Secondary treatment (biological)
+3. Tertiary treatment (chemical/advanced)
+
+
+### Primary Treatment 
+It removes large and visible impurities, i.e., 50-60% of solid waste. The steps involved in physical treatment are: 
+
+1. **Screening:** removes big objects like plastic, rock, clothes, etc. 
+2. **Skimming:** it takes place in a skimming tank designed to remove fats, oil, grease and light solids (scum) from waste water before sedimentation. 
+3. **Sedimentation:** it settles heavy particles like sand, mud, etc. at the bottom. 
+
+### Secondary Treatment 
+It is caled biological treatment or **activated sludge process** which uses microorganisms to break down dissolved organic matter.  
+In this process air is pumped into aeration tank where bacteria breaks down organic waste like food waste and sewage and forms activated sludge. 
+
+### Tertiary Treatment 
+It targets microscopic pollutants which involves filtration and disinfection using chemical like chlorine, ozone, UV light to remove bacteria, viruses and nutrients.  
+This water becomes safe for use in irrigation, industry, etc. 
