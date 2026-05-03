@@ -47,7 +47,7 @@ The velocity ratio $(VR)$ of a simple wheel and axle is given by $VR = \frac{D +
 - Circumference of the wheel, $\pi D = 114$ cm
 - Circumference of the axle, $\pi d = 35$ cm
 - Diameter of axle, $d = \frac{\pi D}{\pi} = 35/\pi = 11.15$ cm 
-- Diameter of the wheel, $D = \frac{\pi D}{\pi} = 114/\pi - 36.3$ cm 
+- Diameter of the wheel, $D = \frac{\pi D}{\pi} = 114/\pi = 36.3$ cm 
 - Diameter of the rope around the wheel, $d_1 = 0.4$ cm 
 - Diameter of the rope around the axle, $d_2 = 0.4$ cm 
 
@@ -63,3 +63,5 @@ $$
 
 ## Inference 
 Due to improper greasing of the axle, we aren't able to get accurate readings. 
+
+<img src="./img/07-simple-wheel-and-axle.jpg">
