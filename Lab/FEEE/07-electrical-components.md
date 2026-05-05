@@ -88,7 +88,7 @@ An integrated circuit (IC) is a small electronic device made of a semiconductor 
 ## 11. Transformer
 An electric transformer is a static electrical device that transfers electrical energy between two or more circuit through electromagnetic induction. It is primarily used to increase (step-up) or decrease (step-down) the voltage levels in an alternating current (AC) system.
 
-<img src="./img/07-transformer.jpg" widht=400 align=center>
+<img src="./img/07-transformer.jpg" width=400 align=center>
 
 ## Display Board on Wires and Cables 
 <img src="./img/07-wires.jpg">
