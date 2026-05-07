@@ -36,7 +36,7 @@ It is the loss of quality of water due to presence of unwanted substances.
 3. **Destroys biodiversity:** common water pollutants that affects biodiversity are agricultural runoff, industrial discharge, plastic pollution, sewage and waste water. 
 
 ## Characteristics of Water Pollution 
-1. Physical parameters for accessment of water quality:
+1. Physical parameters for assessment of water quality:
     1. Color 
     2. Taste 
     3. Odor 
@@ -50,13 +50,13 @@ It is the loss of quality of water due to presence of unwanted substances.
     4. Toxic inorganic substances 
     5. Hardness of water 
     6. Biological Oxygen Demand (BOD) 
-3. Biological parameters for accessment of water quality
+3. Biological parameters for assessment of water quality
     1. Bacteria (typhoid, cholera)
-    2. Algae (vomiting, diahorrea, muscle weakness, skin rashes, etc.)
+    2. Algae (vomiting, diarrhea, muscle weakness, skin rashes, etc.)
     3. Viruses (hepatitis)
     4. Protozoa (malaria)
     5. Indicator organisms (coliforms, e.g., *Eschericha coli*) 
-        - Pathogenica coliforms exist in intestinal system of warm blooded animals and are excreted with their excreta. They survive in water more longer than other pathogens and there are roughly 3 million of E. coli present in 100 ml of untreated sewage. 
+        - Pathogenic coliforms exist in intestinal system of warm blooded animals and are excreted with their excreta. They survive in water more longer than other pathogens and there are roughly 3 million of E. coli present in 100 ml of untreated sewage. 
 
 ## Stages of Waste Water Treatment 
 Waste water treatment involves 3 stages: 
@@ -74,7 +74,7 @@ It removes large and visible impurities, i.e., 50-60% of solid waste. The steps 
 3. **Sedimentation:** it settles heavy particles like sand, mud, etc. at the bottom. 
 
 ### Secondary Treatment 
-It is caled biological treatment or **activated sludge process** which uses microorganisms to break down dissolved organic matter.  
+It is called biological treatment or **activated sludge process** which uses microorganisms to break down dissolved organic matter.  
 In this process air is pumped into aeration tank where bacteria breaks down organic waste like food waste and sewage and forms activated sludge. 
 
 ### Tertiary Treatment 
