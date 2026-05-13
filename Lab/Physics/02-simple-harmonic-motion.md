@@ -8,7 +8,7 @@ Simple pendulum with stand, stopwatch, slide calipers, meter scale, split cork a
 The time period of a simple pendulum is given by, 
 
 $$
-T = 2\pi\sqrt{\frac{L}{\g}}
+T = 2\pi\sqrt{\frac{L}{g}}
 $$
 
 Where,  
