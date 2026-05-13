@@ -80,3 +80,28 @@ In this process air is pumped into aeration tank where bacteria breaks down orga
 ### Tertiary Treatment 
 It targets microscopic pollutants which involves filtration and disinfection using chemical like chlorine, ozone, UV light to remove bacteria, viruses and nutrients.  
 This water becomes safe for use in irrigation, industry, etc. 
+
+# Soil Pollution 
+Soil pollution is defined as the presence of toxic chemicals in soil in high concentration which poses risk to human health and ecosystem. 
+
+## Causes of Soil Pollution 
+1. Agricultural activities like excessive use of chemical fertilizers, insectcides, pesticides, etc. 
+2. Waste disposal from industry, factories, etc. 
+3. Improper dumping of household garbage, plastics, etc. 
+4. Mining activities. 
+5. Oil spills such as leakage from storage, tanks, pipelines and transportation. 
+6. Acid rain (it changes the soil pH making it unsuitable for agriculture)
+7. Electronic waste (E-waste)
+8. Radioactive waste 
+
+## Effects of Soil Pollution 
+1. It effects human health by contaminating soil and entering the food chain, leading to chronic diseases.
+2. It effects agriculture and plant growth by reducing soil fertility, breaking down soil's natural nutrient cycle making land unsuitable for cultivation. 
+3. It effects the environment through groundwater contamination, soil erosion, desertification and declining biodiversity as polluted soil cannot sustain plant and animal life. 
+
+## Preventive Measures of Soil Pollution 
+1. By using organic fertilizers instead of chemical fertilizers, i.e., sustainable agriculture. 
+2. Proper management of waste and disposal. 
+3. By recycling and reusing organic waste for composting. 
+4. By practicing afforestation and reforestation to prevent soil erosion. 
+5. By conducting public awareness campaigns to increase awareness about harmful effects of soil pollution and steps to control it.
