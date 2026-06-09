@@ -5,7 +5,7 @@
     3. Web browser (Google Chrome/ Mozilla Firefox/ Microsoft Edge)
     4. Internet Connection 
 
-A web browser is a software application used to access and view websites on the internet. It allows users to retrive information from web servers and display it in the form of web pages. Browsers provide various features such as tabbed browsing, bookmarks, downloads, extensions and security options. 
+A web browser is a software application used to access and view websites on the internet. It allows users to retrieve information from web servers and display it in the form of web pages. Browsers provide various features such as tabbed browsing, bookmarks, downloads, extensions and security options. 
 
 Web browsing is the process of navigating through web pages using hyperlinks, URLs and search engines. Search engines are web based tools that help users find information on the internet by entering keywords and queries. Common search engines include Google, Bing, Yahoo and Duckduckgo. 
 
