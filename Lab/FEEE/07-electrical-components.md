@@ -75,7 +75,7 @@ A transistor is an electronic component that controls the flow of current and ca
 
 ## 9. Inductor 
 An inductor is an electronic component that stores energy in a magnetic field when current flows through it.  
-Inductors oppose changes in current and are used for various applications like filtering signals, storing energy in power supplied and protecting circuits from current spikes. 
+Inductors oppose changes in current and are used for various applications like filtering signals, storing energy in power supplies and protecting circuits from current spikes. 
 
 <img src="./img/07-inductor.jpg" width=350 align="center">
 
