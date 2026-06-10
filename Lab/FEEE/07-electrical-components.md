@@ -18,8 +18,7 @@ A bread board is a reversible rectangular board used to build and test electroni
 <img src="./img/07-bread-board.jpg" align="center" width=500>
 
 ## 4. Resistor 
-A resistor is a passive two-terminal electrical component that 
-imits or regulate the electric current by slowing down or dissipating excess electrical energy as heat. 
+A resistor is a passive two-terminal electrical component that limits or regulate the electric current by slowing down or dissipating excess electrical energy as heat. 
 
 <img src="./img/07-resistor.jpg" align="center" width=500>
 
