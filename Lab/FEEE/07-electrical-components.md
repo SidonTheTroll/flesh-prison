@@ -64,7 +64,7 @@ A capacitor is an electronic component that stores and releases electrical energ
 A digital multimeter is an electronic measuring tool to find electrical values such as voltage, current and resistance in SI units volts, amperes and ohms in digital precision. 
 
 ## 7. LED (Light Emitting Diode)
-LED stands for light emitting diode. IT is a semiconductor device that emits light when an electric current passes through it. 
+LED stands for light emitting diode. It is a semiconductor device that emits light when an electric current passes through it. 
 
 <img src="./img/07-led.jpg" width=300 align="center">
 
