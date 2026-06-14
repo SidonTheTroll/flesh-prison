@@ -1,5 +1,5 @@
 ## Aim of the Experiment 
-To determine the focal length of concave lens by plane mirror method. 
+To determine the focal length of convex lens by plane mirror method. 
 
 ## Apparatus Required 
 Convex lens, plane mirror, stand with clamps and object pin. 
@@ -9,7 +9,7 @@ If an object is placed at the principle focus $F$ of a convex lens $L$, the rays
 
 - $f$ = focal length of the lens 
 - **d_1,\ d_2** = distances of the object from the upper surface 
-- **f = \frac{d_1 + d_2}{2}**
+- **$f = \frac{d_1 + d_2}{2}$**
 
 ## Procedure
 1. The plane mirror $M$ is placed on the table or a sitting stool with its face turned upwards and the convex lens $L$ is placed on it. 

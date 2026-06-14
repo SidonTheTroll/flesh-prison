@@ -21,17 +21,18 @@ The laws of reflection are:
 8. The experiment is repeated for two more angles of incidence. 
 
 ## Observation 
-| No. of Obs. | Angle of incidence, $\angle i$ | Angle of reflection, $\angle  r$ | Difference $\angle i - \angle r$ | 
-| 1. | $30\degree$ | $30\degree$ | $0\degree$ |
-| 2. | $50\degree$ | $50\degree$ | $0\degree$ |
-| 3. | $66\degree$ | $66\degree$ | $0\degree$ |
+| No. of Obs. | Angle of incidence, $\angle i$ | Angle of reflection, $\angle  r$ | Difference $\angle i - \angle r$ |
+| :-----------:| --------------------------------| ----------------------------------| ----------------------------------|
+| 1.          | $30\degree$                    | $30\degree$                      | $0\degree$                       |
+| 2.          | $50\degree$                    | $50\degree$                      | $0\degree$                       |
+| 3.          | $66\degree$                    | $66\degree$                      | $0\degree$                       |
 
 <img src="./img/05/traces.jpg" width=400>
 
 ## Result 
 Here the reflected ray meets the point of incidence for all angles of incidence. The reflected ray lie in the plane of incidence. 
 
-The angle of incidence, $\angle i$ = $30\degree ,\ 50\degree ,\ 66\degree$
+The angle of incidence, $\angle i$ = $30\degree ,\ 50\degree ,\ 66\degree$  
 The angle of reflection, $\angle i$ = $30\degree ,\ 50\degree ,\ 66\degree$
 
 As $\angle i = \angle r$ and the incident ray, normal and the reflected ray lie in the same plane, laws of reflection are verified.  
